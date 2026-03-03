@@ -2,11 +2,10 @@
   {
     "name": "Orpheus",
     "id": "a01",
-    "username": "Lynn",
     "slack_id": "U08EMT46G3V",
     "hours": 8,
     "hearts": 8,
-    "sugar_rushes": [[2, "Full usability on keyboard"]],
+    "sugar_rushes": [[1, "Full usability on keyboard"]],
     "notes": "Noice stuff"
   }
 ]

@@ -13,7 +13,7 @@
     "id": "oneshot",
     "slack_id": "U07A47LC6P8",
     "hours": 21,
-    "hearts": 8,
+    "hearts": 10,
     "sugar_rushes": [[1, "Spend over 12 hours on your project"], [1, "Full usability through keyboard"], [2, "Participate in a demo"],[3, "Exceptional quality project"]],
     "notes": "I absolutely love this project! I still haven't gotten all the easter eggs, but I'll get there soon T-T. I noticed you listed these as your Hackatime sessions: 'oneshot-e-card', 'final'; however, I can't seem to find 'final'. That won't impact the hearts awarded for this project, but let me know how to sort that out. Otherwise, an exemplary project >w<"
   },

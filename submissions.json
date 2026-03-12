@@ -16,14 +16,5 @@
     "hearts": 17,
     "sugar_rushes": [[1, "Spend over 12 hours on your project"], [1, "Full usability through keyboard"], [2, "Participate in a demo"],[3, "Exceptional quality project"]],
     "notes": "I absolutely love this project! I still haven't gotten all the easter eggs, but I'll get there soon T-T. I noticed you listed these as your Hackatime sessions: 'oneshot-e-card', 'final'; however, I can't seem to find 'final'. That won't impact the hearts awarded for this project, but let me know how to sort that out. Otherwise, an exemplary project >w<"
-  },
-  {
-    "name": "Multiverse: Chapter 1",
-    "id": "multiverse",
-    "slack_id": "U0A4V01TS23",
-    "hours": 0,
-    "hearts": 0,
-    "sugar_rushes": [],
-    "notes": "Hey! Your project looks great; however, there's a couple of issues you'll need to address first before I can award this hearts. Firstly, the hackatime session you put down seems to be invalid, since the API is just giving me everything you've tracked for Hackatime and unable to filter. Additionally, your repository README does not meet the requirements layed out at coeur.hackclub.com/requirements. Once you resolve these issues, I'd be happy to review again. Let me know when these are resolved!"
   }
 ]

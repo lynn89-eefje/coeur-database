@@ -3,7 +3,6 @@
     "name": "Orpheus",
     "id": "a01",
     "slack_id": "U08EMT46G3V",
-    "hours": 8,
     "hearts": 8,
     "sugar_rushes": [[1, "Full usability on keyboard"]],
     "notes": "Noice stuff"
@@ -12,9 +11,16 @@
     "name": "Oneshot E-Card",
     "id": "oneshot",
     "slack_id": "U07A47LC6P8",
-    "hours": 21,
     "hearts": 17,
     "sugar_rushes": [[1, "Spend over 12 hours on your project"], [1, "Full usability through keyboard"], [2, "Participate in a demo"],[3, "Exceptional quality project"]],
     "notes": "I absolutely love this project! I still haven't gotten all the easter eggs, but I'll get there soon T-T. I noticed you listed these as your Hackatime sessions: 'oneshot-e-card', 'final'; however, I can't seem to find 'final'. That won't impact the hearts awarded for this project, but let me know how to sort that out. Otherwise, an exemplary project >w<"
+  },
+  {
+    "name": "Nix My Beloved",
+    "id": "nix",
+    "slack_id": "U09757NT4CQ",
+    "hearts": 13,
+    "sugar_rushes": [[1, "Use a new web-framework"],[1, "Implemented responsive design"],[1, "Full usablity through keyboard"],[1, "Spend over 12 hours on your project"],[2, "Participate in a demo"]],
+    "notes": "Solid project! I was hoping to see a bit more of a creative touch for these projects in general and for them to not just follow the demo, since e-cards can encompass so many different themes and functionalities, but you could always put together another submission that goes out there a bit more >w<. If you make a future submission (likely for V2 at this point), know that doing more original stuff will get you more hearts! What I thought was particularly good with this project was the small stuff, such as the mobile support, animations in the background, and the content of the card itself (it's humorous, but I like it a lot lol). Overall, great job with this project! Keep up the good work!"
   }
 ]

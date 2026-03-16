@@ -22,5 +22,13 @@
     "hearts": 13,
     "sugar_rushes": [[1, "Use a new web-framework"],[1, "Implemented responsive design"],[1, "Full usablity through keyboard"],[1, "Spend over 12 hours on your project"],[2, "Participate in a demo"]],
     "notes": "Solid project! I was hoping to see a bit more of a creative touch for these projects in general and for them to not just follow the demo, since e-cards can encompass so many different themes and functionalities, but you could always put together another submission that goes out there a bit more >w<. If you make a future submission (likely for V2 at this point), know that doing more original stuff will get you more hearts! What I thought was particularly good with this project was the small stuff, such as the mobile support, animations in the background, and the content of the card itself (it's humorous, but I like it a lot lol). Overall, great job with this project! Keep up the good work!"
+  },
+  {
+    "name": "Ice Skating",
+    "id": "skating",
+    "slack_id": "U0A8SAE054G",
+    "hearts": 0,
+    "sugar_rushes": [],
+    "notes": "Your project looks nice; however, you'll need to fix some of the formatting on your README.md before I can properly review. Check out github.com/lynn89-eefje/orpheus and scroll down to my README, so you can see what I'm asking for in terms of general formatting. Utilize markdown to make it more readable! Let me know if you have any queries or concerns."
   }
 ]

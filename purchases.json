@@ -1,11 +1,13 @@
 [
   {
     "slack_id": "U07A47LC6P8",
-    "payment": 17
+    "payment": 17,
+    "date": "Mar 28"
   },
   {
     "slack_id": "U09757NT4CQ",
-    "payment": 13
+    "payment": 13,
+    "date": "Mar 28"
   }
 ]
     

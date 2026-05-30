@@ -30,5 +30,13 @@
     "hearts": 3,
     "sugar_rushes": [],
     "notes": "I really love the animations that you've incorporated into the menu and especially for opening the envelope! An envelope animation is something I really wanted to do for the demo on the site, but never got around to doing. Unfortunately, I did have to deduct 1 heart from the total for this project since your README edits show a high percentage of AI usage. You're always welcome to submit more projects for v2 if you're looking to save up for one of the bigger prizes! Let me know if you have any questions about this."
+  },
+  {
+    "name": "Sporcle-E-Card",
+    "id": "sporcle",
+    "slack_id": "U05QA2ZCY8K",
+    "hearts": 6,
+    "sugar_rushes": [[1, "Use a new web-framework"],
+    "notes": "Would have liked to see a project that branches off more from the exemplar; however, you still incorporated original animations into the different pages of the card (of which I found quite cool!). Good job!"
   }
 ]

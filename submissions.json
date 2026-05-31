@@ -38,5 +38,13 @@
     "hearts": 6,
     "sugar_rushes": [[1, "Use a new web-framework"]],
     "notes": "Would have liked to see a project that branches off more from the exemplar; however, you still incorporated original animations into the different pages of the card (of which I found quite cool!). Good job!"
+  },
+  {
+    "name": "Renran E-Card",
+    "id": "renran",
+    "slack_id": "U097GHSGWGG",
+    "hearts": 7,
+    "sugar_rushes": [],
+    "notes": "Great job with the project! I really like the envelope animation and how it can be toggled back and forth. If you sent it to RenRan, you could still get the Sugar Rush for it (see the main page of the site). Let me know if you do that and I can award an extra heart!"
   }
 ]

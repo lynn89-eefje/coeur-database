@@ -46,5 +46,13 @@
     "hearts": 7,
     "sugar_rushes": [],
     "notes": "Great job with the project! I really like the envelope animation and how it can be toggled back and forth. If you sent it to Renran, you could still get the Sugar Rush for it (see the main page of the site). Let me know if you do that and I can award an extra heart!"
+  },
+  "{
+    "name": "Mothers Day E-Card",
+    "id": "mothersday",
+    "slack_id": "U0B17J0DDRC",
+    "hearts": 13,
+    "sugar_rushes": [[1, "Spend more than 12 hours on project"],[1, "Project works on mobile and desktop"],[1, "First time using HTML/CSS/JS for a proper project"],[2, "Participated in a demo and got project approved"]],
+    "notes": "Great job! I really like the overall charm of the project, and the envelope animation is cool (also like the frog :P)!"
   }
 ]
